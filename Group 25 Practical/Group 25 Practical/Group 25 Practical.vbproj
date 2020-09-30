@@ -73,6 +73,9 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Child1.vb" />
+    <Compile Include="Child2.vb" />
+    <Compile Include="Child3.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
